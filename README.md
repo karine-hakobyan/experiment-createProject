@@ -1,1 +1,3 @@
-# experiment-createProject
+# experiment-createProject <br>
+This is an experimental application ([https://karik-plan.firebaseapp.com/signin] (https://karik-plan.firebaseapp.com/signin)) using React, Redux and Firebase. <br> 
+It has authentication, so first we need to sign up. Then, we could add a new project, see the details of that project. If we are logged out we can no longer see those projects until we logged in again. Data is stored in Cloude Firestore. Real-time notifications are created using Cloud functions.
